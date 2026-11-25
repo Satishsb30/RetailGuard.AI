@@ -1,0 +1,6 @@
+{
+  "name": "RetailGuard AI",
+  "description": "GenAI-powered retail transaction data quality assistant for detecting missing values, duplicates, invalid totals, inconsistent dates, and statistical quantity anomalies without modifying source records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
